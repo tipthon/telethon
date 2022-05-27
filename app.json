@@ -1,9 +1,9 @@
 {
-  "name": "Telethon - Arab",
-  "description": "اهلا بك في تليثون العرب",
+  "name": "Tebthon",
+  "description": "اهلا بك في تيبثون",
   "logo": "",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/userblal/telethon",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "tebthon",
       "required": false
     }
   },
