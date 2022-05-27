@@ -1,7 +1,7 @@
 FROM telethonArab/telethonAr:alpine
 
 #clonning repo 
-RUN git clone https://github.com/telethonArab/telethonAr/tree/master.git /root/iqthon
+RUN git clone https://github.com/userblal/TelethonAr1/tree/master.git /root/iqthon
 #working directory 
 WORKDIR /root/iqthon
 
